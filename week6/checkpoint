@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/nabarundev/intro-to-dl/week6/weights_stacked"
+all_model_checkpoint_paths: "/Users/nabarundev/intro-to-dl/week6/weights_stacked"
